@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebd6b217463f948e89ef6b141a525352, type: 3}
+  m_Name: ShieldBurnShipSound
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: 6e49f8b07b55247c3a609b5725b4e1a9, type: 3}
+  mixerGroup: {fileID: 0}
+  volume:
+    min: 1
+    max: 1
+  pitch:
+    min: 0.9
+    max: 1.1
+  stereoPan: 0
